@@ -1,0 +1,24 @@
+{
+"employeeDetails":[
+    {
+        "id":1,
+        "name":"sam",
+        "email":"sam345@gmail.com",
+        "contactno":"8909876543"
+    },
+    {
+        "id":2,
+        "name":"joel",
+        "email":"jo135@gmail.com",
+        "contactno":"6386789046"
+    },
+    {
+        "id":3,
+        "name":"fro",
+        "email":"sam345@gmail.com",
+        "contactno":"9789098767"
+    }
+
+]
+
+}
